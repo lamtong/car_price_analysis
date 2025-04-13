@@ -54,7 +54,7 @@ To analyse listed cars and develop a model that predicts prices and segments veh
 
 - **Focus on Key Pricing Factors:** Leverage the most influential factors—such as `manufacturing year`, `engine size`, `mileage`, and `condition` when setting car prices. Tailoring prices based on these elements will enhance the precision of pricing models and lead to better customer satisfaction.
 
-- *Enhance Customer Trust with Accurate Pricing:** By using advanced models like MLP to accurately predict prices, car dealerships and platforms can build trust with customers, ensuring that prices reflect fair value based on the car's condition, age, and features.
+- **Enhance Customer Trust with Accurate Pricing:** By using advanced models like MLP to accurately predict prices, car dealerships and platforms can build trust with customers, ensuring that prices reflect fair value based on the car's condition, age, and features.
 
 - **Target Premium and Budget Segments:**
 
